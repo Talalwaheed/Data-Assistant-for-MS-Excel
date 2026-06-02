@@ -83,4 +83,31 @@ Visualize Data → Predict (ML) → Insights & Reports
 
 ## How to Run
 
-1. Clone the repository:
+1. Clone the repository
+git clone https://github.com/Talalwaheed/intelligent-data-assistant.git
+cd intelligent-data-assistant
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Launch the application:
+streamlit run app.py
+
+4. Open your browser at `http://localhost:8501`, upload any CSV or Excel 
+   file, and start analyzing.
+
+---
+
+## Project Information
+
+| Field | Detail |
+|-------|--------|
+| Project Type | Final Year Project |
+| University | University of Haripur |
+| Department | Information Technology |
+| Supervisor | Mam Rubab Wafa |
+| Year | 2026 |
+
+## Author
+
+**M. Talal Bin Waheed** (F22-0440) 
